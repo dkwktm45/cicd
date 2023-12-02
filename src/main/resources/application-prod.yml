@@ -14,3 +14,6 @@ spring:
     url: jdbc:mysql://localhost:3306/teammate?useSSL=false&serverTimezone=Asia/Seoul&characterEncoding=UTF-8
     username: root
     password: dkwktm45
+logging:
+  level:
+    root: info
